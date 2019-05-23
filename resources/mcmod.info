@@ -1,0 +1,15 @@
+[
+{
+  "modid": "materialtweaker",
+  "name": "Material Tweaker",
+  "description": "Customizable Tool and Armor Properties",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mooncat39"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
